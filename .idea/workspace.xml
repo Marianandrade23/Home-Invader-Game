@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b06f5d2-155b-419e-80da-d868632d7f67" name="Changes" comment="commit">
+    <list default="true" id="6b06f5d2-155b-419e-80da-d868632d7f67" name="Changes" comment="mnv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730492907256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cvXCZ">
+      <option name="closed" value="true" />
+      <created>1730514090082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730514090082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mnv">
+      <option name="closed" value="true" />
+      <created>1730514257906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730514257906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mnv">
+      <option name="closed" value="true" />
+      <created>1730514274719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730514274719</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,8 +115,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cvXCZ" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="cvXCZ" />
+    <MESSAGE value="mnv" />
+    <option name="LAST_COMMIT_MESSAGE" value="mnv" />
   </component>
 </project>
